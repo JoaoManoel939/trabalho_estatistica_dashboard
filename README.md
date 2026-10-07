@@ -2,10 +2,9 @@
 
 Projeto da disciplina de Estatística e Probabilidade: análise exploratória de dados com Pandas e dashboard interativo com Streamlit.
 
-**Autores:** Nome do integrante 1 e Nome do integrante 2
+**Autores:** João Manoel Pereira Bem Bom e Marcello Venzel Zaninotto
 **Disciplina:** Estatística e Probabilidade
-**Instituição:** Nome da instituição
-**Professor(a):** Nome do(a) professor(a)
+**Instituição:** Cesupa
 
 ## Sobre o projeto
 
@@ -103,11 +102,3 @@ O arquivo original traz as categorias como números. Os rótulos usados no proje
    ```
 
    O painel abre no navegador, normalmente em `http://localhost:8501`.
-
-## Tecnologias
-
-Python, Pandas, NumPy, Matplotlib, Seaborn e Streamlit.
-
-## Referência
-
-Statlog (Heart). UCI Machine Learning Repository. Consulte a página do conjunto de dados no repositório para a licença e a citação oficial.
